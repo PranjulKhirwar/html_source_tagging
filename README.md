@@ -1,5 +1,7 @@
 # html_source_tagging
 
+A Project for implementing source tagging & highlighting in HTML & TXT files.
+
 ## Project setup
 ```
 npm install
